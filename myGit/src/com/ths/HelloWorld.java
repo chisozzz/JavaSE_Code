@@ -8,5 +8,7 @@ public class HelloWorld {
         System.out.println("HelloWorld");
 
         System.out.println("master分支输出的语句");
+
+        System.out.println("ths分支输出的语句");
     }
 }
