@@ -5,6 +5,8 @@ public class HelloWorld {
         System.out.println("HelloWorld");
         System.out.println("HelloWorld");
 
+        System.out.println("这是ths分支输出的HelloWorld");
+
         System.out.println("这是master输出的语句");
     }
 }
