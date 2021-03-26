@@ -1,0 +1,2 @@
+className:com.ths05.Teacher
+methodName:teach
