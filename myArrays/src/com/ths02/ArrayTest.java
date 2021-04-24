@@ -25,4 +25,10 @@ public class ArrayTest {
         int i = Arrays.binarySearch(arr, 2);
         System.out.printf("%d 的索引为%d",2,i);
     }
+    public static void test(int[]arr){
+        Arrays.toString(arr);
+        Arrays.parallelSort(arr);
+        Arrays.sort(arr);
+        int[] copyOf = Arrays.copyOf(arr, 3);
+    }
 }
